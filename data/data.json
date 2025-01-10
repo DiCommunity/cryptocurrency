@@ -1,0 +1,148 @@
+{
+  "ru": {
+    "profile": {
+      "name": "Диана Шурыгина",
+      "description": "Та самая Диана Шурыгина. Подписывайся, со мной не заскучаешь!",
+      "photo": "/images/profile.JPG",
+      "headerBackground": "/images/header.png"
+    },
+    "modelLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Эксклюзивный Контент 🍓",
+          "text": "Только самый крутой контент для тебя в моем боте! 🚀",
+          "icon": "/images/shura-bot.webp",
+          "url": "https://t.me/DianaShuryginas"
+        },
+        {
+          "name": "Мой канал",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DianaShuryginas "
+        },
+        {
+          "name": "Телеграм чатик",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DiShurigina "
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Инстаграм",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://www.instagram.com/diana_shlianina.s/"
+        },
+        {
+          "name": "Тикток",
+          "icon": "/images/social-icons/tiktok.webp",
+          "url": "https://www.tiktok.com/@shurygina_vlog"
+        },
+        {
+          "name": "Дзен",
+          "icon": "/images/social-icons/dzen.webp",
+          "url": "https://dzen.ru/dianashurygina "
+        },
+        {
+          "name": "Вконтакте",
+          "icon": "/images/social-icons/vk.webp",
+          "url": "https://vk.com/dianashuryginavideo"
+        },
+        {
+          "name": "Одноклассники",
+          "icon": "/images/social-icons/ok.webp",
+          "url": "https://ok.ru/profile/910036457657"
+        },
+        {
+          "name": "Ютуб",
+          "icon": "/images/social-icons/youtube.webp",
+          "url": "https://www.youtube.com/@Diana_Shurygina./community"
+        },
+        {
+          "name": "П-Хаб",
+          "icon": "/images/social-icons/p-hub.webp",
+          "url": "https://rt.pornhub.com/model/dianashurygina"
+        },
+        {
+          "name": "Бусти",
+          "icon": "/images/social-icons/boosty.webp",
+          "url": "https://boosty.to/dianashurygina"
+        },
+        {
+          "name": "Threads",
+          "icon": "/images/social-icons/threads.webp",
+          "url": "https://www.threads.net/@diana_shlianina.s"
+        }
+      ]
+    }
+  },
+
+  "en": {
+    "profile": {
+      "name": "Diana Shurygina",
+      "description": "The one and only Diana Shurygina. Follow me, you won't get bored!",
+      "photo": "/images/profile.JPG",
+      "headerBackground": "/images/header.png"
+    },
+    "modelLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Exclusive Content 🍓",
+          "text": "Only the coolest content just for you in my bot! 🚀",
+          "icon": "/images/shura-bot.webp",
+          "url": "https://t.me/DianaTonPlaceBot"
+        },
+        {
+          "name": "Telegram Channel",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/Di_DianaShurygina"
+        },
+        {
+          "name": "Telegram Chat",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DianaShuryginaChat"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Instagram Life",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://www.instagram.com/diana_s_life2/"
+        },
+        {
+          "name": "Twitter (X)",
+          "icon": "/images/social-icons/x.webp",
+          "url": "https://x.com/DianaShyriginas"
+        },
+        {
+          "name": "Facebook",
+          "icon": "/images/social-icons/facebook.webp",
+          "url": "https://www.facebook.com/dianashuryginas"
+        },
+        {
+          "name": "GitHub",
+          "icon": "/images/social-icons/github.webp",
+          "url": "https://github.com/DiCommunity"
+        },
+        {
+          "name": "Pornhub",
+          "icon": "/images/social-icons/p-hub.webp",
+          "url": "https://www.pornhub.org/model/dianashurygina"
+        },
+        {
+          "name": "Fansly",
+          "icon": "/images/social-icons/fansly.webp",
+          "url": "https://fans.ly/r/shurygina"
+        },
+        {
+          "name": "Patreon",
+          "icon": "/images/social-icons/patreon.webp",
+          "url": "https://www.patreon.com/c/dianashurygina"
+        },
+        {
+          "name": "Threads",
+          "icon": "/images/social-icons/threads.webp",
+          "url": "https://www.threads.net/@diana_s_life2"
+        }
+      ]
+    }
+  }
+}
